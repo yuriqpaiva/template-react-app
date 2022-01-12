@@ -9,7 +9,7 @@
   </p>
 </p>
 
-# NextJS Template
+# React App Template
 
 A React App Template with Typescript and Styled Components
 
